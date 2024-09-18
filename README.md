@@ -21,7 +21,7 @@ This is a simple **Memory Game** implemented in Python. The goal of the game is 
 
 ### Requirements
 
-- Python 3.x
+- Python 3
 
 ### Installation
 
