@@ -39,4 +39,4 @@ This is a simple **Memory Game** implemented in Python. The goal of the game is 
 To start the game, simply run the Python script:
 
 ```bash
-python memory_game.py
+python3 Memory_Game.py
