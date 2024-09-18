@@ -27,11 +27,11 @@ This is a simple **Memory Game** implemented in Python. The goal of the game is 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/memory-game.git
+    git clone https://github.com/BaltazarSR/Memory-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd memory-game
+    cd Memory-Game
     ```
     
 ### Run the Game
